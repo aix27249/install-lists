@@ -1,0 +1,8 @@
+desc: GNOME 2 desktop
+full: Desktop environment based on GNOME 2. Maybe, the best choice for ones who cannot decide what to choose: medium hardware requirements, excellent functionality, good component integration, and very stable. Choose it if in doubt.
+desc[ru]: Десктоп на базе GNOME 2
+full[ru]: Рабочее окружение для десктопа на базе GNOME 2. Пожалуй, лучший вариант для тех кто не знает что выбрать: умеренные требования к железу в сочетании с богатым функционалом, продуманностью и стабильностью дают хороший универсальный вариант. Выбирайте этот вариант, если сомневаетесь.
+hasX11
+hasDM
+hardware: 512 Mb RAM, not very old CPU
+hardware[ru]: 512 Мб ОЗУ, не очень старый процессор

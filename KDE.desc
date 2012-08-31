@@ -1,0 +1,8 @@
+desc: KDE Desktop
+full: Feature-rich desktop with KDE. You will have a lot of cool stuff, but it hardware requirements are very high.
+desc[ru]: KDE десктоп
+full[ru]: Наполненный возможностями десктоп на базе KDE. Вы получите огромное количество прекрасных функций, но требования к железу очень высоки.
+hasX11
+hasDM
+hardware: 2Gb RAM, modern CPU (at least dual-core is recommended), powerful modern video card.
+hardware[ru]: 2Гб ОЗУ, современный процессор (хотя бы двуядерный), мощная современная видеокарта.

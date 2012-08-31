@@ -1,0 +1,6 @@
+desc: Minimal install with network
+full: Minimal install with network support.
+desc[ru]: Минимальная система
+full[ru]: Минимальная установка с поддержкой сети. Если вы хотите минимальную установку - рекомендуем вам начать именно с этого списка. Однако помните, что собрать из нее полноценное окружение довольно непросто.
+hardware: any computer
+hardware[ru]: любой компьютер

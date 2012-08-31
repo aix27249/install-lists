@@ -1,0 +1,6 @@
+desc: Server
+full: Platform for building server. Of cource, there is no such thing as generic server, but this package set is a good point to start building a server for most cases. Includes generic console environment and a set of most popular server applications.
+desc[ru]: Сервер
+full[ru]: Платформа-заготовка для развертывания сервера. Само собой, такой вещи как среднестатистический сервер не существует, но этот список - хорошая отправная точка для большинства случаев. Включает в себя стандартное консольное окружение и набор наиболее популярных серверных приложений.
+hardware: depends on you
+hardware[ru]: зависит от вас

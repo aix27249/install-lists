@@ -1,0 +1,8 @@
+desc: Fluxbox desktop
+full: Very minimalistic installation with Fluxbox window manager.
+desc[ru]: Fluxbox
+full[ru]: Крайне минималистичная установка с оконным менеджером Fluxbox.
+hasX11
+hasDM
+hardware: 128Mb RAM, any CPU
+hardware[ru]: 128Мб ОЗУ, любой процессор
