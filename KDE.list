@@ -925,3 +925,4 @@ linux-firmware
 zd1211-firmware
 ipw2100-fw
 ipw2200-fw
+bind-utils
