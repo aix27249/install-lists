@@ -21,7 +21,7 @@ claws-mail-plugin
 sudo
 gcc-libs
 gcc-g++-libs
-
+bind-utils
 openrc
 acl                                                            
 acpid                                                          
