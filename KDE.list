@@ -529,12 +529,8 @@ mpfr
 mpg321
 mpkg-console
 mpkg-core
-mpkg-gui-installer
 mpkg-i18n
 mpkg-manager2
-#mpkg-update-checker
-#mpkg-update-notifier
-#mpkg-update-notifier-cli
 mpkgsupport
 mt-st
 mtr
