@@ -1,7 +1,7 @@
 desc: Fluxbox desktop
-full: Very minimalistic installation with Fluxbox window manager.
+full: Minimalistic installation with Fluxbox window manager.
 desc[ru]: Fluxbox
-full[ru]: Крайне минималистичная установка с оконным менеджером Fluxbox.
+full[ru]: Минималистичная установка с оконным менеджером Fluxbox.
 hasX11
 hasDM
 hardware: 128Mb RAM, any CPU
