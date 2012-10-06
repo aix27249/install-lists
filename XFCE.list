@@ -486,12 +486,11 @@ trapproto
 videoproto
 xproxymanagementprotocol
 wimax-network-service
-
+system-config-printer
 man-db
 elementary-icon-theme
 elementary-monochrome-icon-theme
 xfce4-screenshooter
-shotwell
 hunspell
 hunspell-dict-ru
 openrc-services
@@ -504,7 +503,7 @@ xfburn
 gdb
 mobile-broadband-provider-info
 dracut
-
+uget
 broadcom-wl
 bluez-firmware
 linux-firmware
