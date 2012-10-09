@@ -6,7 +6,6 @@ kernel-modules
 
 # Firmware
 broadcom-wl
-bluez-firmware
 linux-firmware
 zd1211-firmware
 ipw2100-fw
