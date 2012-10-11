@@ -50,7 +50,6 @@ os-prober
 # System init, boot-time configuration, console font
 openrc
 sysvinit
-sysvinit-scripts
 kbd
 terminus-fonts-console
 
