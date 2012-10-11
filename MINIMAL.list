@@ -39,11 +39,9 @@ mpkg-console
 # Archive support
 bzip2
 cpio
-infozip
 tar
 xz
 gzip
-ncompress
 
 # Boot loader
 grub
