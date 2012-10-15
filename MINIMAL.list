@@ -54,6 +54,8 @@ kbd
 terminus-fonts-console
 
 # Base utilities
+# coreutils, util-linux-ng, procps and shadow messed up their utilities, again. Need a review.
+# shadow fails to build. Requires to find out why.
 time
 coreutils
 getty-ps
@@ -64,7 +66,7 @@ gettext
 gawk
 sed
 procps
-shadow
+shadow # Updated one fails to build. Also, see notice above
 util-linux-ng
 which
 patch
@@ -76,22 +78,15 @@ usbutils
 
 # Not so basic, but very handful utilities
 less
-slocate
 
 # Shell
 bash
 bash-completion
 
-# Partitioning
-gptsync
-parted
-
 # Basic network support
 iputils
 dhcpcd
 net-tools
-xl2tpd
-rp-pppoe
 
 # Hacks (to select specific package branch instead of default one)
 gcc-libs
@@ -105,17 +100,11 @@ dcron
 logrotate
 sysklogd
 
-# HDD and removable media handling (FIXME: do we really need this in *minimal* system?)
-eject
-hdparm
-sdparm
-smartmontools
-
-# Basic layout
+# Basic layout (DONE)
 etc
 lsb-release
 
-# GLIBC stuff and basic libs
+# GLIBC stuff and basic libs (DONE, but didn't tried)
 glibc-i18n
 glibc-solibs
 glibc-zoneinfo
@@ -130,4 +119,9 @@ glibc-zoneinfo
 # network-scripts: old slackware scripts to handle network. Some of them are still useful, and should be ported to agilialinux layout
 #network-scripts
 
-
+# TODO for October 13: 
+# 1) network tools (3 pkgs)
+# 2) shadow (fix build)
+# 3) nano
+# 4) investigate toolchain stuff and try to build it separately
+#

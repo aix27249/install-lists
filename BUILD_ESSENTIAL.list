@@ -1,0 +1,16 @@
+# Packages required to build something, so-called "build-essentials"
+
+autoconf
+automake
+diffutils
+gcc
+gcc-g++
+gettext-tools
+intltool
+kernel-headers
+libxslt
+make
+pkg-config
+binutils
+bison
+
