@@ -55,7 +55,6 @@ terminus-fonts-console
 
 # Base utilities
 # coreutils, util-linux-ng, procps and shadow messed up their utilities, again. Need a review.
-# shadow fails to build. Requires to find out why.
 time
 coreutils
 getty-ps
@@ -66,7 +65,7 @@ gettext
 gawk
 sed
 procps
-shadow # Updated one fails to build. Also, see notice above
+shadow
 util-linux-ng
 which
 patch
@@ -88,9 +87,6 @@ iputils
 dhcpcd
 net-tools
 
-# Hacks (to select specific package branch instead of default one)
-gcc-libs
-
 # Text editor
 nano
 
@@ -100,28 +96,13 @@ dcron
 logrotate
 sysklogd
 
-# Basic layout (DONE)
+# Basic layout
 etc
 lsb-release
 
-# GLIBC stuff and basic libs (DONE, but didn't tried)
+# GLIBC stuff and basic libs
 glibc-i18n
 glibc-solibs
 glibc-zoneinfo
 
-# === Seems-to-be-deprecated utilities ===
-# mkinitrd: replaced by dracut
-#mkinitrd
-# bin: seems that these utils required only by slackware scripts we don't use anymore
-#bin
-# dialog: used by some old slackware and mopslinux scripts, but none of them are known to be used at present time
-#dialog
-# network-scripts: old slackware scripts to handle network. Some of them are still useful, and should be ported to agilialinux layout
-#network-scripts
 
-# TODO for October 13: 
-# 1) network tools (3 pkgs)
-# 2) shadow (fix build)
-# 3) nano
-# 4) investigate toolchain stuff and try to build it separately
-#
