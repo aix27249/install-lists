@@ -57,7 +57,6 @@ terminus-fonts-console
 # coreutils, util-linux-ng, procps and shadow messed up their utilities, again. Need a review.
 time
 coreutils
-getty-ps
 file
 findutils
 grep
