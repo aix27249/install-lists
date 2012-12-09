@@ -603,6 +603,7 @@ pciutils
 pcre
 perl
 phonon
+phonon-gstreamer
 pil
 pixman
 pkg-config
