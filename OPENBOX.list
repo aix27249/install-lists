@@ -877,3 +877,4 @@ ipw2100-fw
 ipw2200-fw
 bind-utils
 xf86-video-fbdev
+xf86-video-modesetting

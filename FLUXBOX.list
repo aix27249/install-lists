@@ -343,3 +343,4 @@ drbl
 arping
 libnet
 xf86-video-fbdev
+xf86-video-modesetting
