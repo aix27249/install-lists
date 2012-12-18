@@ -346,3 +346,5 @@ xf86-video-fbdev
 xf86-video-modesetting
 unrar
 ntfsfixboot
+rfkill
+florence
