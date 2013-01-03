@@ -3,5 +3,6 @@ full: Lightweight, well-balanced desktop based on Openbox WM. Ideal choice for o
 desc[ru]: Openbox десктоп
 full[ru]: Легковесное, хорошо сбалансированное рабочее окружение на основе Openbox. Идеальный выбор для тех кто любит минимализм, при этом требователен к набору функций. Кроме того, он очень нетребователен к железу.
 hasX11
+hasDM
 hardware: 256Mb RAM, any CPU
 hardware[ru]: 256Мб ОЗУ, любой процессор
